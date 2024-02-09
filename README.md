@@ -1,1 +1,1 @@
-﻿git is the useful
+﻿git is useful
